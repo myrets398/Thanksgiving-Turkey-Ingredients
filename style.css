@@ -1,0 +1,51 @@
+/*style*/
+/*comments*/
+.turkey
+{
+  padding: 30px 30px 30px 30px;
+  display: block;
+    margin: 0 auto;
+  border-style: solid;
+  border-width: 50px;
+  border-color: brown;
+  width: 420px;
+  height: auto;
+}
+.header
+{
+  color: gray;
+  text-align: center;
+  font-size: 2.7em;
+}
+.body {
+  color: gray;
+  text-align: center;
+  border-style: solid;
+  border-width: 50px;
+  border-color: brown;
+}
+.ingredients {
+  color: brown;
+  text-align: center;
+
+}
+.ingredients_list {
+  list-style-type: none;
+  color: gray;
+text-align:center;
+border-style: solid;
+border-width: 50px;
+border-color: brown;
+}
+.URL{
+  color: brown;
+  text-align:center;
+  border-style: solid;
+  border-width: 50px;
+  border-color: brown;
+}
+.entire_body{
+  border: 32px,
+border-style: solid;
+border-color=#b784a7;
+}
